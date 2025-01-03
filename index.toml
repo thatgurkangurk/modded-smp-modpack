@@ -6,6 +6,11 @@ hash = "6548800a7f3043473a8ea5f0dd07231d890344dd9bf117ef7ea0e98f1057f0fe"
 metafile = true
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "108c035c32a20c623bb13c26c8a7a37426f3d50495273fb1e1cb5e9f59e52d8f"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "42cfaca74786adca775e2a86be27c6900e56eb86a5d8428b6b6998ed1b33f1af"
 metafile = true
@@ -107,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dbb2d8f1bab2dcfaef4bf0ee2728c6ab2ce688b689d8e57f5d8ed468c8b62b9f"
+hash = "c7763ceed9929d3364030c01a4602628ebf46a028d55e7dd06f5aeb6280d36a3"
 metafile = true
 
 [[files]]
@@ -268,6 +273,31 @@ metafile = true
 [[files]]
 file = "mods/woods-and-mires.pw.toml"
 hash = "b3bfbfa2031a140496133e82ce88d0d2853508ee6d4a20657a45c34a63419e21"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "95940b5fc72e8df82ab3adb72b43d10a37e6d926fbb37c405c9fe50bda27a991"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "c360a4aef0ce719d385529002ba157a731d572b73cefb573c763d71d54039078"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "b2af03e504a1827f2f6fc09597e7d51f4ecd64ab1ebb329a9eb9ffb98372673a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "7e89ac9ea56f87a811a289d474b8ab4fe46d7a235b4c6ef4767e5099967d656e"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "d201155cab7c2a2cf940d91f240be769ac12046c2fc6a0774e225a8e51423ed0"
 metafile = true
 
 [[files]]
