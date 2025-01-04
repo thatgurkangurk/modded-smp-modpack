@@ -166,11 +166,6 @@ hash = "5e83a4294f11fd592e58b0fe8a4041ebdf30875c9dd16060cb74189a7aad240d"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "62dcbd50ca504de26da23305b6e1578298b6cfd14fb98118fcd471cf128d4337"
 metafile = true
@@ -178,11 +173,6 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "694c91d6f341271b0b071a814fb64defbd52af1b228cb593595836c0d9f68151"
-metafile = true
-
-[[files]]
-file = "mods/lithium.pw.toml"
-hash = "470d30cd94b769b646f714432ba4cd01969910f6016957a6b218d2d2900d914c"
 metafile = true
 
 [[files]]
