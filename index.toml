@@ -271,11 +271,6 @@ hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
 
 [[files]]
-file = "mods/veinminer.pw.toml"
-hash = "213860e0c0161f60fba897f526d92ca703208dd26b636e6eaadb2c715d8a2f58"
-metafile = true
-
-[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "ffb2cfcb24ac65c753f6b877b7b6c67cddf56055cc7585faedd5e7b96b64c392"
 metafile = true
