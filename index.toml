@@ -201,11 +201,6 @@ hash = "ffaf30ee69ec75b6dc5d0a21ec1bc38db7acb999ee74d250306ca69179a522a0"
 metafile = true
 
 [[files]]
-file = "mods/numismatics.pw.toml"
-hash = "18a4f4dfc2a16aadfe282c53c15df1015c35650ebe70df184843fe5cc02f31f5"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "8fe7a1882593ac153622e5c2bdf8133157f5638040bf10ea3dc9ffcf2ec1930a"
 metafile = true
