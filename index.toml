@@ -176,6 +176,11 @@ hash = "694c91d6f341271b0b071a814fb64defbd52af1b228cb593595836c0d9f68151"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "470d30cd94b769b646f714432ba4cd01969910f6016957a6b218d2d2900d914c"
+metafile = true
+
+[[files]]
 file = "mods/logical-zoom.pw.toml"
 hash = "61d6e07d82c1e48920a997829f32f015f8028d8cc7ae3647298c3498762f61d3"
 metafile = true
@@ -213,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "d5d7b7d8ddc60eac234033a30c8980a6d2d1ea07a0da45faabf82026432799a8"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "0201eb8dce1b66107457141c16049d6ffaf952f506b4e37129a4b4a1b8e12b1c"
 metafile = true
 
 [[files]]
@@ -293,9 +303,4 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "d201155cab7c2a2cf940d91f240be769ac12046c2fc6a0774e225a8e51423ed0"
-metafile = true
-
-[[files]]
-file = "mods/zombie-awareness.pw.toml"
-hash = "d7651d3c0b4223a2df4af7d72636e7bf80c558dc351065c7431db4147c215ab4"
 metafile = true
