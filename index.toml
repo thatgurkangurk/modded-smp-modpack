@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
+hash = "c9297ce4f2d18b77e8ce81e94796f8b7e793f59f319cc574271e6e16980e23d1"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c7763ceed9929d3364030c01a4602628ebf46a028d55e7dd06f5aeb6280d36a3"
+hash = "dbb2d8f1bab2dcfaef4bf0ee2728c6ab2ce688b689d8e57f5d8ed468c8b62b9f"
 metafile = true
 
 [[files]]
@@ -203,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/no-indium.pw.toml"
 hash = "ffaf30ee69ec75b6dc5d0a21ec1bc38db7acb999ee74d250306ca69179a522a0"
+metafile = true
+
+[[files]]
+file = "mods/numismatics.pw.toml"
+hash = "18a4f4dfc2a16aadfe282c53c15df1015c35650ebe70df184843fe5cc02f31f5"
 metafile = true
 
 [[files]]
