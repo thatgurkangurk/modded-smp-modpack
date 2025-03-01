@@ -36,6 +36,11 @@ hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "874f578662fd07d02038e7d31e475ed9e1bbda2be31d5067cba21440289e68d8"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "0a4d0034c5a1379d5aa57c0a104aaa2adbb98f1e2b89d4ec0b7ef68df2e16a1a"
 metafile = true
@@ -103,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "841c078c18644b801b4f2d559e7246d1cb1df3726aec47de0a2ccf4e76b25188"
+metafile = true
+
+[[files]]
+file = "mods/full-brightness-toggle.pw.toml"
+hash = "a1a6e16e0075f2b94dee9f7458325d66a439a0bca0ecc25bf8120a37dbf6ec5d"
 metafile = true
 
 [[files]]
