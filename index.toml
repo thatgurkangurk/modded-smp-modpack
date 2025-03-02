@@ -11,6 +11,11 @@ hash = "46a3e89d8b17ef1564d323cb24a8ee8dbaf96d7b07324379d5bb0858e9996212"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "be86dd96391b15bb2df56997f848c901d3a9b1e844974bd5001a76c7262a578b"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "401e6f8ea3922a0fc69dd8fd126280133fa4e94e7f6558ad916bdef0d6e68bdd"
 metafile = true
@@ -186,6 +191,11 @@ hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "758a6e0ca20802b83c96762c6399f7cd107c65260b2330373d46d7fddb69056e"
 metafile = true
@@ -253,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "2c297fb87d09bd4203399e865d48a10aa82016c53b6767b10b43726e111a3566"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "7098bc36dd1c26d0077d34b75497b223e0d0889b5beb8c93259b3ab8b2cd7133"
 metafile = true
 
 [[files]]
