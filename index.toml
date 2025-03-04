@@ -6,6 +6,11 @@ hash = "8a9a92db01486e4f8d3a7370a6cbf6e59a12d1ef15c24b375ebce75500e78afc"
 metafile = true
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "ef9bf76e6e39576898d05b7858b6f3dd3e1847e7cc23fffdfd72f18de1d7fc51"
+metafile = true
+
+[[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "46a3e89d8b17ef1564d323cb24a8ee8dbaf96d7b07324379d5bb0858e9996212"
 metafile = true
@@ -77,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "ff71b3c719839b4b01cbc6d247b96fbd4902ae472b8439071f1c8c3e2721b17f"
+hash = "699cacace84b427ebcd0766af90c39e8396e9fecd03821558658041cb93e09aa"
 metafile = true
 
 [[files]]
