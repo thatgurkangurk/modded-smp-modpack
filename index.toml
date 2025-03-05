@@ -101,11 +101,6 @@ hash = "699cacace84b427ebcd0766af90c39e8396e9fecd03821558658041cb93e09aa"
 metafile = true
 
 [[files]]
-file = "mods/croptopia.pw.toml"
-hash = "dbf433daaf5ca87264ed08d1dfa2f67da701a8fbe3e1b698295e762b57908047"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "78e6623084bd14f68ef1335ae8a419238c4119188b90fd9e71faf45c4f049942"
 metafile = true
@@ -118,11 +113,6 @@ metafile = true
 [[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "de5ea0b6d6c303af3788a178996c39f46d260cd15a86121b1246b3591913d256"
-metafile = true
-
-[[files]]
-file = "mods/farmers-croptopia.pw.toml"
-hash = "564bbd6e05dc25d9929b414f2678702df40a9f0e593f3a8621df7fb823943033"
 metafile = true
 
 [[files]]
