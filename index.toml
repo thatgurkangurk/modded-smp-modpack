@@ -96,11 +96,6 @@ hash = "97ffc7f2d6cc8679068951eb52f0e5576a0f2d719e10a62e8d4553b88e994345"
 metafile = true
 
 [[files]]
-file = "mods/create-pattern-schematics.pw.toml"
-hash = "f1e8b3efd72dbd0817febeaa5bef13b04f686396049a664e1915e2636c96cc22"
-metafile = true
-
-[[files]]
 file = "mods/create-stone-generators.pw.toml"
 hash = "2d93b20e845cece0e23e456d188c462c9285b986aad9dd97caf743916bcd97a8"
 metafile = true
@@ -117,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "22cbffc716babfbb34155fcfd8cfc6ffb94efd67a67607e6d1ef9b02f7484fe2"
+hash = "699cacace84b427ebcd0766af90c39e8396e9fecd03821558658041cb93e09aa"
 metafile = true
 
 [[files]]
