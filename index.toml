@@ -36,11 +36,6 @@ hash = "268f35112d9b1637f9d5e7beea999d9dbda8ae746d1d98fb2cd8e23c5f5ac98f"
 metafile = true
 
 [[files]]
-file = "mods/bellsandwhistles.pw.toml"
-hash = "9ee1799a3c903056668e1ea4a5f858777257cbc69a6f919acedfa2e0edd2c7d3"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "00a6a59105f7bc307cf04c1dfb129b300c29a4cb550a5825cacdb54dbc598c68"
 metafile = true
@@ -83,11 +78,6 @@ metafile = true
 [[files]]
 file = "mods/create-contraption-terminals.pw.toml"
 hash = "02d3c2c9758fe92e9010111553cbdc4edd009ffc543af0eac41b7b016a7047d1"
-metafile = true
-
-[[files]]
-file = "mods/create-dreams-and-desires.pw.toml"
-hash = "32956e0b85a4631a5c2091bbd64387978970e83c3d6f7654a3a4a8b59ddff0cc"
 metafile = true
 
 [[files]]
