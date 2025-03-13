@@ -81,11 +81,6 @@ hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
-file = "mods/crafted-core.pw.toml"
-hash = "4a3b3b9187aad4c5b6c96e77a40d22b55f6f02c085f05b165a464410c3478399"
-metafile = true
-
-[[files]]
 file = "mods/create-contraption-terminals.pw.toml"
 hash = "02d3c2c9758fe92e9010111553cbdc4edd009ffc543af0eac41b7b016a7047d1"
 metafile = true
@@ -276,11 +271,6 @@ hash = "18a8e2fb290df026bdb8a1022c5209afc851cddf9253631d179bf4c225b120f7"
 metafile = true
 
 [[files]]
-file = "mods/skinshifter.pw.toml"
-hash = "db1b51fe3e8023d7395b936ad8a1c643942a7800fdca02e18f8ffa99245e8664"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
 metafile = true
@@ -363,11 +353,6 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "4ba42e13f09ee4ea555e430aadc54b2d6e4ffa0ac2f0aebfa5a0542f193c5f47"
-metafile = true
-
-[[files]]
-file = "mods/woodwalkers.pw.toml"
-hash = "7498d54614a1188023b4bf299a9dd408cca99ed0063bacd22c617c9af43b6e61"
 metafile = true
 
 [[files]]
