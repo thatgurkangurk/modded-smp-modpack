@@ -46,6 +46,11 @@ hash = "f17c5f3623ff4b54f316dd83af970df1f8447a286ffd5f3685efce3e9446e0ca"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
@@ -158,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "4c6d9e09a9cb4dbd1cae6a962da9a5838eab21a3cf8514784359d6ae0dc13199"
+metafile = true
+
+[[files]]
+file = "mods/immersive-portals-neoforge.pw.toml"
+hash = "bb86f04efd579c6915a80c9e82a27765901c188effdd56ddb32a660cd19b2259"
 metafile = true
 
 [[files]]
