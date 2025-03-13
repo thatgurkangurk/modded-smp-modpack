@@ -256,11 +256,6 @@ hash = "f70753b73b9baee1550e932231cdca1da45c4516c6b7b8763a2a164e0bf375ce"
 metafile = true
 
 [[files]]
-file = "mods/remorphed.pw.toml"
-hash = "8d6f626caebf4182d570638efae6ffbc46c94fb327c834e2800b7ba50d233dee"
-metafile = true
-
-[[files]]
 file = "mods/repurposed-structures-farmers-delight-compat.pw.toml"
 hash = "5e4f45b6e1f2ce9ae540301225913e7c5d2f3babfc801b3bc20b496ca62b0a4e"
 metafile = true
