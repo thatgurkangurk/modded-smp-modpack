@@ -136,6 +136,11 @@ hash = "f77098be75305f93641931d1985f3aa67de551b1beae89b53555ad04417c0e46"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "ca7aaf32075a904c16620da9892290c28b10abba05673fa30781422393b02a6a"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "78e6623084bd14f68ef1335ae8a419238c4119188b90fd9e71faf45c4f049942"
 metafile = true
@@ -298,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "c5687771065e4a43266b38018cbdf142b216916dd73aa6532b8282e3d0f06b9c"
 metafile = true
 
 [[files]]
