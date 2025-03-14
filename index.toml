@@ -36,6 +36,11 @@ hash = "268f35112d9b1637f9d5e7beea999d9dbda8ae746d1d98fb2cd8e23c5f5ac98f"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "00a6a59105f7bc307cf04c1dfb129b300c29a4cb550a5825cacdb54dbc598c68"
 metafile = true
@@ -86,8 +91,28 @@ hash = "02d3c2c9758fe92e9010111553cbdc4edd009ffc543af0eac41b7b016a7047d1"
 metafile = true
 
 [[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "32956e0b85a4631a5c2091bbd64387978970e83c3d6f7654a3a4a8b59ddff0cc"
+metafile = true
+
+[[files]]
 file = "mods/create-framed.pw.toml"
-hash = "97ffc7f2d6cc8679068951eb52f0e5576a0f2d719e10a62e8d4553b88e994345"
+hash = "1d09bc26743efd8bd52a5e3e25a50f8da0a186c82fde00c221860de26f29bbb4"
+metafile = true
+
+[[files]]
+file = "mods/create-garnished.pw.toml"
+hash = "61dee4d67b8fbb6b816832f586bb52958b93d2a506e1afcd2df4b95b12bdca60"
+metafile = true
+
+[[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "ec83351ff8e3ed9c085370cb1d6844dda99f24ad271ffc4b07beba5fe7c836cc"
+metafile = true
+
+[[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "c395a6406722cb23a10ce9e0e7ea2925d1f3e947f5921b20b927d6ee8c127459"
 metafile = true
 
 [[files]]
@@ -107,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "699cacace84b427ebcd0766af90c39e8396e9fecd03821558658041cb93e09aa"
+hash = "f77098be75305f93641931d1985f3aa67de551b1beae89b53555ad04417c0e46"
 metafile = true
 
 [[files]]
