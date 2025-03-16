@@ -111,11 +111,6 @@ hash = "61dee4d67b8fbb6b816832f586bb52958b93d2a506e1afcd2df4b95b12bdca60"
 metafile = true
 
 [[files]]
-file = "mods/create-misc-and-things.pw.toml"
-hash = "ec83351ff8e3ed9c085370cb1d6844dda99f24ad271ffc4b07beba5fe7c836cc"
-metafile = true
-
-[[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "f6ac1bccdfad81cd7b399502fc239159d7eae9f724bf590147d66dd06f2c0660"
 metafile = true
