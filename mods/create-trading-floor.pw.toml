@@ -1,0 +1,13 @@
+name = "Create: Trading floor"
+filename = "trading_floor-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WROfLLvn/versions/iZeToJTV/trading_floor-3.0.1.jar"
+hash-format = "sha512"
+hash = "0dfdc9b47deeea52c4e75ad5a8d77769c1fc4620c7ab005ff4e145dec7e9fab3304453ec0adb19ea7d8c608e572619c7e64ebf5d472f5b4c2b0103529fd5b4fa"
+
+[update]
+[update.modrinth]
+mod-id = "WROfLLvn"
+version = "iZeToJTV"
