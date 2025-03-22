@@ -116,11 +116,6 @@ hash = "f6ac1bccdfad81cd7b399502fc239159d7eae9f724bf590147d66dd06f2c0660"
 metafile = true
 
 [[files]]
-file = "mods/create-simple-ore-doubling.pw.toml"
-hash = "c6ac284e4777bdd7423e4f909b1c29631958c81461fdabd9e5c4b8da053c49eb"
-metafile = true
-
-[[files]]
 file = "mods/create-stone-generators.pw.toml"
 hash = "2d93b20e845cece0e23e456d188c462c9285b986aad9dd97caf743916bcd97a8"
 metafile = true
